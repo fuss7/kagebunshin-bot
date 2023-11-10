@@ -1,5 +1,5 @@
 # kagebunshin-bot
-Made with puppeteer, &amp; axios/
+Made with puppeteer, &amp; axios
 
 Langkah 1: Instal Node.js
 
